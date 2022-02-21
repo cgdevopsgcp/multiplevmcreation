@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cg-anz-practice",
+  "private_key_id": "e88fc8c8f3721c6c75049c772bd2a83b7ec052bb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCaW+TOVgvontUD\n6QZaDVJJmnUxdAZ9t58+AL3NFPMM2LRvdzRH28J1oOiBVCxkxtVqCTPPbp4BKm2U\nbvPY4lA9og1RRne3xO1fPeeYYEaU5K42KHpEdIL44oaupHsbz1A6vmAm3/iWVY65\ns7o6BXOaQzxcbX37lokoSlq5pGo4iOI2aqn/2sKj5+4ad+XMItYZkH0DPAwgqJQb\nGtD5E6dHITRPoCnltvOPdpaxCGQ23Vorkqf3182ocB6zflKAdT/2pFAeRsggOa8X\nBbG785dZS5Bb1aXNumaJdVqAYL4vnSP3Xgj/ki+z5J3fv/xYMNWgc11JWn2ndW7S\nvuiTbO5LAgMBAAECggEAFsJb3yyCvv7ES7pNDHQQYPfcNbl0x46OdTboxVdEau18\n1T6PP9UgO/XIsmD11roWd3b546jctTFLTOp7G8xqplvBeO1Z84eetD9NaYMwhP2e\nzi9zr6o6MXY9A30PBc+wdajiRnkZjxj4XVsppypsnB8zxDEEtVbBzGYCMIMUglc5\npxl8UGt71WW2DlStclRxyAK6c0kL5VoXyDRSIcvTN9I8sDeMutw4tJLJ4rqS2FgD\nkaikIlsnQR1IfSgHcyWrrCqftj8KUj6yCefuv6Ld0mI4IfSpPFccGSxAns2DfpRV\nb8O0rUzyFiintQDowzkvtg8MB1iahQAUZqicaDR4WQKBgQDYTIfDE8R6Ah6GoB70\ntaVxA7VQrj1R3RwGQpjoYDeFmXUgQhbIa35zugLvvtEd8/GlJrMmoaLuJk78nN3q\nqU9K4/BHJR60UEY2t3o2I1OMWfkT62M64tigtUCXzyrcX5kouyS9MA93f/pkmGUr\nQQcobrYn/0WaM9Oi5dDujS9RnQKBgQC2sOxSkKOkgx7AhOYMYBAwRe1VxDLcUrQG\nWogLxsXnWcHlGHjMNMICLxBYTUJwcK1ziZiyB9VMHyof7kpyaAjEW2sM81x3EsP2\nCgbec8iruPuTdPTIn15HABhrL12dCOZxBQkYEelecUCsX14OGZMy+fpne5s8sKEL\nTaDGXkePBwKBgHK7bYwZkS+SrjSE/MabD6255NRuCBLDcVkUvF0OpITWWJ2K0ODw\nu/uQ4HvhQLVdr4EF3SORu4YNhfpTDxepRWkZLVvfocDNj+D4Q/gxluCs3QUm59TV\nfUkJu8CK4FZS00AavKspshqWJPB1MbzW2oAk8bSXoIjiEtGmi8Pt2fq1AoGAeR/G\nH1usU3dnnSa/y3apZQgHufRx8CeZGhlN19j6/09AQZ8+/8z+0CnaAWF/6kKajV6t\n8WNGJMkIydDYZQ/auC0QRa7YIE49xFOTiEtlwYzMp1BEtvsKq7JBflcSDvqGpmo7\nRE0j16zovyAfoOON959LSO7n1o4YyAC41qxNb2MCgYEA1HVO77wqZk2vC79TRpLh\nx8hnmgKVyVzdX+MeuDtFyih1uC9h/k0/hthfUzRAgTI8D/TmrrFXdh3/UtG5ZAPO\nfl2bHkEwJeAIhzipxvGRBx/mjYV+iz747QDfjhhOtLh2w3rGU8l3vDbcNo3z7bur\nW2hkkMlNjFu9YJN1AGSrsNE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cganz-584@cg-anz-practice.iam.gserviceaccount.com",
+  "client_id": "105326297020686957139",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cganz-584%40cg-anz-practice.iam.gserviceaccount.com"
+}
