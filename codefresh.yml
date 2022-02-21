@@ -1,0 +1,32 @@
+version: '1.0'
+stages:
+  - checkout
+  - prepare   
+  - deploy
+steps:
+  main_clone:
+    title: Cloning main repository...
+    stage: checkout
+    type: git-clone
+    repo: 'cgdevopsgcp/multiplevmcreation'
+    revision: main
+    git: github      
+  SetupAuth:
+    image: alpine:3.9
+    title: Setting up GCP cloud access and secret key
+    stage: prepare
+    commands:
+        - export access_key=$ACCESS_KEY
+        - export secret_key=$SECRET_KEY
+        - export region=us-central1-c
+  DeployWithTerraform:
+    image: hashicorp/terraform:0.12.0
+    title: Deploying Terraform plan
+    stage: deploy
+    commands:
+      - export GCP_ACCESS_KEY_ID=$ACCESS_KEY
+      - export GCP_SECRET_ACCESS_KEY=$SECRET_KEY
+      - terraform init
+      - terraform validate
+      - terraform plan 
+      - terraform apply -auto-approve
